@@ -1,0 +1,25 @@
+.Bcenter{
+  color: white;
+  font-weight: bold;
+  font-size: 400px;
+  font-family: Helvetica;
+  transition: all 1s ease-out;
+    }
+.Bcenter:hover{
+      transform: rotate(180deg);
+    }
+.links{
+  color: white;
+  line-height: 15px;
+  font-size: 30px;
+  font-family: Helvetica;
+  padding: 10px;
+  border: 3px solid white;
+  text-align: center;
+}
+a:visited {
+  color: pink;
+}
+a:unvisited {
+  color: white;
+}
